@@ -1,3 +1,4 @@
+![Header](https://github.com/jberdeja/jberdeja/blob/main/assets/images/light-blue-technology-linkedin-banner-260nw-2358315117.jpg?raw=true)
 # ¡Hola! 👋 Soy Jhonny Berdeja
 
 ## 💻 Desarrollador Full Stack
