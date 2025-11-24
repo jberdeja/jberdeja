@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jhonny Berdeja
 
-<!--
-**jberdeja/jberdeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+Recién graduado del bootcamp de Henry, apasionado por crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo web full stack con JavaScript y sus ecosistemas modernos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo:
+
+**Frontend:**
+- React
+- TypeScript
+- HTML5 & CSS3
+- JavaScript (ES6+)
+
+**Backend:**
+- Node.js
+- Express
+- NestJS
+
+**Bases de datos:**
+- PostgreSQL
+- TypeORM
+- MongoDB
+
+**Herramientas:**
+- Git & GitHub
+- RESTful APIs
+- [Agrega otras: Docker, Postman, etc.]
+
+### 🌟 Proyecto destacado:
+
+**Red Social para Estudiantes**
+- Aplicación full stack que conecta estudiantes para compartir contenido académico
+- Implementa autenticación, perfiles personalizables y sistema de publicaciones
+- Stack: React, TypeScript, Node.js, NestJS, PostgreSQL
+
+### 📫 Conectemos:
+
+- 💼 [LinkedIn]([tu-link-de-linkedin](https://www.linkedin.com/in/jhonn-berdeja-624955397/))
+- 📧 jhonny.milton.berdeja.ajhuacho@gmail.com
