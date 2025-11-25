@@ -37,5 +37,5 @@ Recién graduado del bootcamp de Henry, apasionado por crear soluciones tecnoló
 
 ### 📫 Conectemos:
 
-- 💼 [LinkedIn]([tu-link-de-linkedin](https://www.linkedin.com/in/jhonn-berdeja-624955397/))
+- 💼 [LinkedIn]([tu-link-de-linkedin](https://www.linkedin.com/in/j-berdeja/))
 - 📧 jhonny.milton.berdeja.ajhuacho@gmail.com
